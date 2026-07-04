@@ -10,6 +10,19 @@ A fully reproducible geospatial analysis of public park distribution, walkabilit
 - **880** verified parks identified via OpenStreetMap across the district
 - Park access varies by nearly **8x** between the best- and worst-served tehsils
 - **Lahore District** (the historic urban core) is the most park-rich tehsil; **Shalimar**, a large peripheral tehsil, is the least
+- ## Visual Overview
+
+### Parks Distribution
+![Parks Distribution Map](01_Parks_Distribution_Lahore_v2.png)
+
+### Walkability Coverage
+![Walkability Analysis](02_Walkability_Analysis_v2.png)
+
+### Parks Per Capita by Tehsil
+![Choropleth Map](03_Parks_Per_Capita_by_District.png)
+
+### Ranked Comparison
+![Bar Chart](04_Parks_Per_Capita_Bar_Chart.png)
 
 ## Contents
 
